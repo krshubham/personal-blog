@@ -27,6 +27,16 @@ Well, if you use sublime text, and didn't know, how to make custom snippets, let
 
 Hope this helps further! Hop on to comments for hugs and bugs!
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-3900805761322774"
+     data-ad-slot="1286488845"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
 

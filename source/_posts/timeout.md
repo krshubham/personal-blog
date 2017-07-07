@@ -26,3 +26,14 @@ Or we can use ``` $timeout() ``` instead of using the above piece of code. **$ti
 
 Hop on to comments for some chit chat!
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-format="fluid"
+     data-ad-layout="in-article"
+     data-ad-client="ca-pub-3900805761322774"
+     data-ad-slot="1286488845"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
